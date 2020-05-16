@@ -1,0 +1,22 @@
+INDEX VERSION 1.126+F:\RFID\RFID_ReadData\.metadata\.plugins\org.eclipse.jdt.core
+72152992.index
+3504169665.index
+2195807730.index
+1056644574.index
+2097415941.index
+341536476.index
+1208375643.index
+3463974671.index
+3019329700.index
+2596144172.index
+3172077685.index
+2522264829.index
+3704885225.index
+2072995815.index
+130436869.index
+3284051923.index
+574345533.index
+723949445.index
+134696329.index
+2180517724.index
+3233062807.index
